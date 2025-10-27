@@ -169,9 +169,10 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Your Name - [GitHub Profile](https://github.com/the-kunal-sharma)
 
 ---
 
 Made with ❤️ for better healthcare management
+
 
